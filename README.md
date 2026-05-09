@@ -24,6 +24,12 @@ https://www.meesho.io/ai/data-challenge
 
 ---
 
+# Final Ranking
+
+🏆 [**Top 13 Global Rank**]([https://unstop.com/hackathons/crp-amazon-ml-challenge-2025-amazon-1560375/offline-round/1200466](https://www.kaggle.com/competitions/visual-taxonomy/leaderboard))
+
+---
+
 # Problem Statement
 
 Given a product image, predict multiple product attributes such as:
