@@ -211,7 +211,7 @@ meesho-visual-taxonomy-challenge/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/sqqshh/Meesho-Visual-Taxonomy-Challenge.git
 cd meesho-visual-taxonomy-challenge
 ```
 
